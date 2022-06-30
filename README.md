@@ -2,11 +2,11 @@
 
 🌱 I’m currently learning PySpark I’m currently learning PySpark and AWS
 
-### A quick tour of this GitHub :ticket: :bus:
+### A quick tour of this GitHub :bus:
 
- + The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program :crystal_ball: :mortar_board: 
+:mortar_board: The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program  
 
-+ The SQL_Challenge is a repository where one can find the SQL problems/challenges I daily solve. :honeybee: :honey_pot:
+:honey_pot: The SQL_Challenge is a repository where one can find the SQL problems/challenges I daily solve. 
 
 <!--
 **RKL13/RKL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
