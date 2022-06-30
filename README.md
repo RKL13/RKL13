@@ -2,7 +2,10 @@
 
 🌱 I’m currently learning PySpark I’m currently learning PySpark and AWS
 
-### A quick tour of this GitHub :bus:
+
+
+
+### :octocat: A quick tour of this GitHub :octocat:
 
 :mortar_board: The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program  
 
