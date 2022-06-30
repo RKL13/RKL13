@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning PySpark I’m currently learning PySpark and AWS and I'm loving it
+🌱 I’m currently learning PySpark and AWS and I'm loving it
 
 
 
