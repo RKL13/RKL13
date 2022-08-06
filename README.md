@@ -14,7 +14,7 @@ I am Raphaël, a junior 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 �
 
 📌 You can also check out my LinkedIn [here](https://www.linkedin.com/in/klraphael/)
 
-### :octocat: A quick tour of this GitHub :octocat:
+# :octocat: A quick tour of this GitHub :octocat:
 
 The [DS_OC repositories](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) refer to the hands-on projects I have achieved throughout my Data Scientist Program :mortar_board:
 You can find their overview [here](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) 
