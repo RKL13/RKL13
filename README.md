@@ -12,7 +12,7 @@ I am Raphaël, a junior 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 �
 
 ⚡️ I am actively looking for a Permanent Employment contract or a Fixed-term one.
 
-📌 You can also check out my Linkedin [here](https://www.linkedin.com/in/klraphael/)
+📌 You can also check out my LinkedIn [here](https://www.linkedin.com/in/klraphael/)
 
 ### :octocat: A quick tour of this GitHub :octocat:
 
