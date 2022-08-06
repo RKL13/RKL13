@@ -7,8 +7,8 @@
 
 ### :octocat: A quick tour of this GitHub :octocat:
 
-The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program 
-You can find their overview [here](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) :mortar_board:
+The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program :mortar_board:
+You can find their overview [here](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) 
 
 The SQL_Challenge is a repository where one can find the SQL problems/challenges I daily solve. :honey_pot: 
 
