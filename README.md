@@ -16,10 +16,10 @@ I am Raphaël, a junior 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 �
 
 ### :octocat: A quick tour of this GitHub :octocat:
 
-The DS_OC repositories refer to the hands-on projects I have achieved throughout my Data Scientist Program :mortar_board:
+The [DS_OC repositories](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) refer to the hands-on projects I have achieved throughout my Data Scientist Program :mortar_board:
 You can find their overview [here](https://github.com/RKL13/RKL13/blob/main/DS_OC%20repositories.md) 
 
-The SQL_Challenge is a repository where one can find the SQL problems/challenges I daily solve. :honey_pot: 
+The [SQL_Challenge](https://github.com/RKL13/SQL_challenges) is a repository where one can find the SQL problems/challenges I daily solve. :honey_pot: 
 
 <!--
 **RKL13/RKL13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
