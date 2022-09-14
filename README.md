@@ -10,8 +10,6 @@ I am Raphaël, a junior 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 �
 
 🪜 𝐈 𝐜𝐚𝐧 𝐛𝐞 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐚𝐧𝐲 𝐬𝐭𝐞𝐩 𝐨𝐟 𝐚 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 project implementation, from 𝐝𝐚𝐭𝐚 𝐜𝐥𝐞𝐚𝐧𝐢𝐧𝐠, 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, and 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐬𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 🔨 to the 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 of trained algorithms 𝐨𝐧 𝐭𝐡𝐞 𝐜𝐥𝐨𝐮𝐝 🚀, passing by the 𝐬𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧, 𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠, 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧, and 𝐜𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐨𝐧 𝐨𝐟 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 ⚗️. 
 
-⚡️ I am actively looking for a Permanent Employment contract or a Fixed-term one.
-
 📌 You can also check out my LinkedIn [here](https://www.linkedin.com/in/klraphael/)
 
 # :octocat: A quick tour of this GitHub :octocat:
